@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.inner{
+   font-family:'Courier New', Courier, monospace;
+}
+
+.intervals{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
