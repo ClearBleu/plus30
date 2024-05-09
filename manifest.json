@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "plus30",
-    "description": "Display current date, curent date plus 30, 15, 7, and 3 days.",
+    "description": "Display current date, current date plus 30, 15, 7, and 3 days.",
     "version": "1.0",
     "action": {
         "default_popup": "index.html",
